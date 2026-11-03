@@ -1,0 +1,3 @@
+interface:
+  display_name: "PDF DOI Rename"
+  short_description: "Batch-rename PDFs using the DOI found inside each file"
