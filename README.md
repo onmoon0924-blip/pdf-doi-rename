@@ -32,7 +32,7 @@ cannot contain `/`, so the DOI separator becomes `_`:
 
 ```bash
 cd ~/.codex/skills
-git clone https://github.com/YOUR_USERNAME/pdf-doi-rename.git
+git clone https://github.com/onmoon0924-blip/pdf-doi-rename.git
 ```
 
 ### Using the Codex skill-installer
@@ -40,7 +40,7 @@ git clone https://github.com/YOUR_USERNAME/pdf-doi-rename.git
 Ask Codex to install it from your repo, or use the bundled installer:
 
 ```bash
-python install-skill-from-github.py --repo YOUR_USERNAME/pdf-doi-rename --path .
+python install-skill-from-github.py --repo onmoon0924-blip/pdf-doi-rename --path .
 ```
 
 ### Manual
